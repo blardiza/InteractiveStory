@@ -15,6 +15,8 @@ public class MainActivity extends ActionBarActivity {
     private EditText mNameField;
     private Button mStartButton;
 
+    //this is a test comment
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
